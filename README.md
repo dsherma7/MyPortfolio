@@ -7,6 +7,8 @@ The following projects are tools I've developed to support data analytics tasks 
 1. __Polyploid Dosage Calling:__ An R package that employs machine learning to predict the dosage level of a tissue sample. [github.com/dsherma7/PolyploidDosageCalling](https://github.com/dsherma7/PolyploidDosageCalling)
 2. __MathNet:__ A NLP tool in Python for classifying a publication by the field of mathematics that it represents. Compares the results from a couple models including an SVM and Naive Bayes model. [github.com/dsherma7/MathNet](https://github.com/dsherma7/MathNet)
 3. __Scientific Computing:__ A collection of scientific computing algorithms developed as separate pieces of code in Matlab. [github.com/dsherma7/Computing](https://github.com/dsherma7/Computing)
+4. __Deep Learning API:__ A Python built web app with an easy to use UI for designing custom Deep Learning models in Tensorflow. [github.com/dsherma7/DeepLearningAPI](https://github.com/dsherma7/DeepLearningAPI)
+
 
 ### Visualization
 The following projects were implemented using [Three.js](https://threejs.org/), a [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) 3D visualization javascript framework. Each project was built upon the last based on the order below, each with different techniques. 
